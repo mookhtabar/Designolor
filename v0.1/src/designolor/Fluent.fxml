@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" fx:id="A" prefHeight="480.0" prefWidth="800.0" style="-fx-background-color: #FAFAFA;" styleClass="mainFxmlClass" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="designolor.FluentController">
+    <stylesheets>
+        <URL value="@home.css" />
+    </stylesheets>
+   <children>
+      <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #767676; -fx-font-size: 14px;" text="#767676" />
+      <Button layoutX="14.0" layoutY="72.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #4C4A48; -fx-font-size: 14px;" text="#4C4A48" />
+      <Button layoutX="14.0" layoutY="131.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #69797E; -fx-font-size: 14px;" text="#69797E" />
+      <Button layoutX="14.0" layoutY="189.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #4A5459; -fx-font-size: 14px;" text="#4A5459" />
+      <Button layoutX="141.0" layoutY="14.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #7A7574; -fx-font-size: 14px;" text="#7A7574" />
+      <Button layoutX="141.0" layoutY="72.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #5D5A58; -fx-font-size: 14px;" text="#5D5A58" />
+      <Button layoutX="141.0" layoutY="131.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #68768A; -fx-font-size: 14px;" text="#68768A" />
+      <Button layoutX="141.0" layoutY="189.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #515C6B; -fx-font-size: 14px;" text="#515C6B" />
+      <Button layoutX="268.0" layoutY="13.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #0099BC; -fx-font-size: 14px;" text="#0099BC" />
+      <Button layoutX="268.0" layoutY="71.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #2D7D9A; -fx-font-size: 14px;" text="#2D7D9A" />
+      <Button layoutX="268.0" layoutY="130.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #00B7C3; -fx-font-size: 14px;" text="#00B7C3" />
+      <Button layoutX="268.0" layoutY="188.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #038387; -fx-font-size: 14px;" text="#038387" />
+      <Button layoutX="395.0" layoutY="13.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #0078D7; -fx-font-size: 14px;" text="#0078D7" />
+      <Button layoutX="395.0" layoutY="71.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #0063B1; -fx-font-size: 14px;" text="#0063B1" />
+      <Button layoutX="395.0" layoutY="130.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #8E8CD8; -fx-font-size: 14px;" text="#8E8CD8" />
+      <Button layoutX="395.0" layoutY="188.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #6B69D6; -fx-font-size: 14px;" text="#6B69D6" />
+      <Button layoutX="14.0" layoutY="247.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #647C64; -fx-font-size: 14px;" text="#647C64" />
+      <Button layoutX="14.0" layoutY="305.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #525E54; -fx-font-size: 14px;" text="#525E54" />
+      <Button layoutX="141.0" layoutY="247.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #567C73; -fx-font-size: 14px;" text="#567C73" />
+      <Button layoutX="141.0" layoutY="305.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #486860; -fx-font-size: 14px;" text="#486860" />
+      <Button layoutX="14.0" layoutY="363.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #847545; -fx-font-size: 14px;" text="#847545" />
+      <Button layoutX="14.0" layoutY="421.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #7E735F; -fx-font-size: 14px;" text="#7E735F" />
+      <Button layoutX="141.0" layoutY="363.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #498205; -fx-font-size: 14px;" text="#498205" />
+      <Button layoutX="141.0" layoutY="421.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #107C10; -fx-font-size: 14px;" text="#107C10" />
+      <Button layoutX="268.0" layoutY="247.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #00B294; -fx-font-size: 14px;" text="#00B294" />
+      <Button layoutX="268.0" layoutY="305.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #018574; -fx-font-size: 14px;" text="#018574" />
+      <Button layoutX="395.0" layoutY="247.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #8764B8; -fx-font-size: 14px;" text="#8764B8" />
+      <Button layoutX="395.0" layoutY="305.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #744DA9; -fx-font-size: 14px;" text="#744DA9" />
+      <Button layoutX="268.0" layoutY="363.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #00CC6A; -fx-font-size: 14px;" text="#00CC6A" />
+      <Button layoutX="268.0" layoutY="421.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #10893E; -fx-font-size: 14px;" text="#10893E" />
+      <Button layoutX="395.0" layoutY="363.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #B146C2; -fx-font-size: 14px;" text="#B146C2" />
+      <Button layoutX="395.0" layoutY="421.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #881798; -fx-font-size: 14px;" text="#881798" />
+      <Button layoutX="522.0" layoutY="12.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: E74856; -fx-font-size: 14px;" text="#E74856" />
+      <Button layoutX="522.0" layoutY="70.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #E81123; -fx-font-size: 14px;" text="#E81123" />
+      <Button layoutX="522.0" layoutY="129.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #EA005E; -fx-font-size: 14px;" text="#EA005E" />
+      <Button layoutX="522.0" layoutY="187.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: C30052; -fx-font-size: 14px;" text="#C30052" />
+      <Button layoutX="649.0" layoutY="12.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #FFB900; -fx-font-size: 14px;" text="#FFB900" />
+      <Button layoutX="649.0" layoutY="70.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #FF8C00; -fx-font-size: 14px;" text="#FF8C00" />
+      <Button layoutX="649.0" layoutY="129.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #F7630C; -fx-font-size: 14px;" text="#F7630C" />
+      <Button layoutX="649.0" layoutY="187.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #CA5010; -fx-font-size: 14px;" text="#CA5010" />
+      <Button layoutX="522.0" layoutY="246.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #E3008C; -fx-font-size: 14px;" text="#E3008C" />
+      <Button layoutX="522.0" layoutY="304.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #BF0077; -fx-font-size: 14px;" text="#BF0077" />
+      <Button layoutX="649.0" layoutY="246.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #DA3B01; -fx-font-size: 14px;" text="#DA3B01" />
+      <Button layoutX="649.0" layoutY="304.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #EF6950; -fx-font-size: 14px;" text="#EF6950" />
+      <Button layoutX="522.0" layoutY="362.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #C239B3; -fx-font-size: 14px;" text="#C239B3" />
+      <Button layoutX="522.0" layoutY="420.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #9A0089; -fx-font-size: 14px;" text="#9A0089" />
+      <Button layoutX="649.0" layoutY="362.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #D13438; -fx-font-size: 14px;" text="#D13438" />
+      <Button layoutX="649.0" layoutY="420.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="120.0" style="-fx-background-color: #FF4343; -fx-font-size: 14px;" text="#FF4343" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,9 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+.button:hover{
+        -fx-background-radius:20;
+}
+}
