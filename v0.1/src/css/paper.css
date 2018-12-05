@@ -1,0 +1,5 @@
+#paper {
+-fx-background-color: #f4f4f4;
+-fx-background-radius: 50 50 0 0;
+-fx-effect: dropshadow(three-pass-box, gray, 5, 0, 0, 0)
+}
