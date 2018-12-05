@@ -1,0 +1,11 @@
+@font-face {
+src: url("../css/fonts/DroidKufi-Regular.ttf");
+}
+
+.label {
+-fx-font-family: "Droid Arabic Kufi";
+}
+
+#text {
+-fx-font-family: "Droid Arabic Kufi";
+}
